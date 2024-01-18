@@ -34,7 +34,7 @@ const lastButton = document.getElementById("lastButton");
 lastButton.addEventListener("click", passIvent);
 function passIvent() {
   if (counter1 === 3 && counter2 === 9) {
-      const width = 1000;
+      const width = 900;
       const height =500;
       const disPage ="pass.html";
       const sudName = "passWord";
