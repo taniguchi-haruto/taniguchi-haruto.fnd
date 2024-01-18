@@ -1,8 +1,14 @@
 body {
     text-align: center;
+    
+    
 }
-
-
+#syashin {
+    
+    background-size:100%;
+    background-repeat: no-repeat;
+    
+}
 
 .text {
     display: inline-block;
@@ -12,7 +18,19 @@ body {
     text-align: center;
     font-size:80px;
 }
-#value {
+#pass1 {
+    width: 180px;
+    height: 97%;
+    text-align: center;
+    font-size: 100%;
+}
+#pass2 {
+    width: 180px;
+    height: 97%;
+    text-align: center;
+    font-size: 100%;
+}
+#pass3 {
     width: 180px;
     height: 97%;
     text-align: center;
